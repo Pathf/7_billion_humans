@@ -20,7 +20,8 @@
 -
 
 10 "Escapade d'Urgence" :
--
+- long
+- speed
 
 11 "Chantier d'Insertion 1" :
 -
