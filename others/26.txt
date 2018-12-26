@@ -1,0 +1,29 @@
+-- 7 Billion Humans (2214M) --
+-- 26: Brigade du Budget 2 --
+
+a:
+if s == printer:
+	takefrom s
+	giveto n
+else:
+	if w == hole and
+	 e == hole:
+		giveto n
+	endif
+	if n == hole:
+		b:
+		c:
+		if s == shredder and
+		 myitem == datacube:
+			giveto s
+			jump c
+		endif
+		if myitem >= 50:
+			giveto e
+		else:
+			giveto w
+		endif
+		jump b
+	endif
+endif
+jump a
