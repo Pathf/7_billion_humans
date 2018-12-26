@@ -1,64 +1,191 @@
-2 "Bienvenue, Nouvelles Recrues" : perfect
-3 "Escadron de Transport" : perfect
-4 "Livraison Longue Distance" : perfect
-5 "Une Décision Importante" : perfect
-6 "Exterminateur de Poche 1" : perfect
-7 "Station de Rassemblement" : long
+2 "Bienvenue, Nouvelles Recrues" : 
+- perfect
+
+3 "Escadron de Transport" : 
+- perfect
+
+4 "Livraison Longue Distance" :
+- perfect
+
+5 "Une Décision Importante" :
+- perfect
+
+6 "Exterminateur de Poche 1" :
+- perfect
+
+7 "Station de Rassemblement" :
+- long
+
 9 "Angles Dynamiques" :
+-
+
 10 "Escapade d'Urgence" :
+-
+
 11 "Chantier d'Insertion 1" :
+-
+
 12 "Fermeture Eclair" :
+-
+
 13 "Chantier d'Insertion 2" :
+-
+
 14 "Intro au Broyage" :
+-
+
 15 "Broyage de Lignes" :
+-
+
 16 "Exterminateur de Poche 2" :
+-
+
 17 "Créateurs de Contenu" :
+-
+
 18 "Utilisation Unique" :
+-
+
 19 "Patch des Créateurs de Contenu" :
+-
+
 20 "Ligne Renversée" :
+-
+
 21 "Big Data" :
+-
+
 22 "Royale des Nombres" :
+-
+
 23 "Hall de Tri" :
+-
+
 24 "Brigade du Budget 1" :
+-
+
 25 "Mon Premier Souvenir de Broyage" :
+-
+
 26 "Brigade du Budget 2" :
+-
+
 28 "Chemins Neuronaux" :
+-
+
 29 "Accès Biométrique" :
+-
+
 30 "Peupler le Plancher" :
+-
+
 31 "Organisation en Damier" :
+-
+
 32 "Ecriture Maladive" :
+-
+
 33 "Jour de Sauvegarde des Données" :
+-
+
 34 "Trouver et Détruire 1" :
+-
+
 35 "Les Maths pour Tous" :
+-
+
 36 "Trouver et Détruire 2" :
+-
+
 37 "Usage Dangereux du Tableur" :
+-
+
 38 "Trouver et Détruire 3" :
+-
+
 39 "Consignes d'Impression 1" :
+-
+
 40 "Consignes d'Impression 2" :
+-
+
 41 "Déchiffreur d'Image" :
+-
+
 42 "E-mails Importants" :
+-
+
 43 "Table de Multiplication" :
+-
+
 44 "Fête de la Mode Unique" :
+-
+
 46 "Romance de Bureau Obligatoire" :
+-
+
 47 "Civilités Automatisées" :
+-
+
 48 "Entrainement de la Communauté" :
+-
+
 49 "Destruction à Double Face" :
+-
+
 50 "Cabine de Communication" :
+-
+
 51 "Identifiez-Vous" :
+-
+
 52 "Le Code Mode" :
+-
+
 53 "100 Cubes au Sol" :
+-
+
 54 "Niveleur de Terrain" :
+-
+
 55 "Fleurs de Données" :
+-
+
 56 "Maximums Locaux" :
+-
+
 57 "Balayeur de Voisinage" :
+-
+
 58 "Bons Voisins" :
+-
+
 59 "Fosse Festive" :
+-
+
 60 "Tri en Sous-Effectifs" :
+-
+
 61 "Sentiers Paresseux" :
+-
+
 62 "L'étage de Tri" :
+-
+
 63 "Défrag Désordonné" :
+-
+
 64 "Compteur Binaire" :
+-
+
 65 "Défrag Ordonné" :
+-
+
 66 "Compteur Décimal" :
+-
+
 67 "Doubleur Décimal" :
+-
+
 68 "Au revoir, les Humains !" :
+-
