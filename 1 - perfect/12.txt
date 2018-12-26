@@ -1,0 +1,14 @@
+-- 7 Billion Humans (2214M) --
+-- 12: Fermeture Éclair --
+
+pickup c
+a:
+if sw == something:
+	step n
+	drop
+endif
+if nw == something:
+	step s
+	drop
+endif
+jump a
