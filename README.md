@@ -15,7 +15,7 @@ The "long" folder groups the codes of the different levels which respect the fol
 The folder "speed" groups the codes of the different levels which respect the following condition:
 - Optional Speed Challenge
 
-The "others" folder groups the remaining codes that work but do not respect the conditions.
+The "others" folder groups the remaining codes that work but do not respect the conditions. (Algo often naive)
 
 
 ## Langue Française :
@@ -33,4 +33,4 @@ Le dossier "long" regroupe les codes des différents niveaux qui respectent la c
 Le dossier "speed" regroupe les codes des différents niveaux qui respectent la condition suivante :
 - Défi de Vitesse Facultatif
 
-Le dossier "others" regroupe les codes restant qui marche mais qui ne respecte pas les conditions.
+Le dossier "others" regroupe les codes restant qui marche mais qui ne respecte pas les conditions. (Algo souvent naïf)
