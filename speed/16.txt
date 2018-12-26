@@ -1,0 +1,27 @@
+-- 7 Billion Humans (2214M) --
+-- 16: Exterminateur de Poche 2 --
+
+step s
+step s
+step s
+step s
+if s == hole or
+ s == wall:
+	pickup c
+	a:
+	step e
+	step e
+	step e
+	giveto se
+else:
+	step s
+	if s == wall:
+		pickup c
+	else:
+		step s
+		pickup c
+		step e
+	endif
+	step e
+	jump a
+endif
