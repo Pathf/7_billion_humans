@@ -1,9 +1,9 @@
 2 : perfect
-3 :
-4 :
-5 :
-6 :
-7 :
+3 : perfect
+4 : perfect
+5 : perfect
+6 : perfect
+7 : long
 8 :
 9 :
 10 :
