@@ -1,0 +1,9 @@
+-- 7 Billion Humans (2214M) --
+-- 14: Intro au Broyage --
+
+if s == something:
+	pickup s
+endif
+step s
+step s
+giveto s
