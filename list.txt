@@ -140,7 +140,7 @@
 -
 
 52 "Le Code Mode" :
--
+- others
 
 53 "100 Cubes au Sol" :
 -
