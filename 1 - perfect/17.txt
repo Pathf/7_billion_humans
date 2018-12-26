@@ -1,0 +1,4 @@
+-- 7 Billion Humans (2214M) --
+-- 17: Créateurs de Contenu --
+
+pickup s
