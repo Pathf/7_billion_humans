@@ -1,0 +1,17 @@
+-- 7 Billion Humans (2214M) --
+-- 15: Broyage de Lignes --
+
+a:
+b:
+step n
+if n != datacube:
+	jump b
+endif
+pickup n
+c:
+step s
+if s != shredder:
+	jump c
+endif
+giveto s
+jump a
