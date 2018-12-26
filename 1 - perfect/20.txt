@@ -1,0 +1,17 @@
+-- 7 Billion Humans (2214M) --
+-- 20: Ligne Renversée --
+
+pickup s
+a:
+if se != hole:
+	step e
+	jump a
+endif
+step s
+b:
+if w != hole and
+ w != datacube:
+	step w
+	jump b
+endif
+drop
