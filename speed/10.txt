@@ -1,0 +1,31 @@
+-- 7 Billion Humans (2214M) --
+-- 10: Escapade d'Urgence --
+
+a:
+if w != hole:
+	step w
+	jump a
+endif
+if s == wall:
+	step n
+endif
+if c != 3:
+	if nw != hole:
+		step nw
+	else:
+		step sw
+	endif
+	step w
+endif
+step s
+step s
+step sw
+step w
+step w
+step w
+step nw
+step n
+step n
+step n
+step n
+step nw
