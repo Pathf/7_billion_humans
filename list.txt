@@ -42,7 +42,8 @@
 - perfect
 
 16 "Exterminateur de Poche 2" :
--
+- long
+- speed
 
 17 "Créateurs de Contenu" :
 - perfect
