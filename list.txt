@@ -39,28 +39,28 @@
 - speed
 
 15 "Broyage de Lignes" :
--
+- perfect
 
 16 "Exterminateur de Poche 2" :
 -
 
 17 "Créateurs de Contenu" :
--
+- perfect
 
 18 "Utilisation Unique" :
--
+- perfect
 
 19 "Patch des Créateurs de Contenu" :
--
+- perfect
 
 20 "Ligne Renversée" :
--
+- perfect
 
 21 "Big Data" :
--
+- 
 
 22 "Royale des Nombres" :
--
+- perfect
 
 23 "Hall de Tri" :
 -
