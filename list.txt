@@ -32,7 +32,7 @@
 - perfect
 
 13 "Chantier d'Insertion 2" :
--
+- others
 
 14 "Intro au Broyage" :
 -
