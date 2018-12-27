@@ -1,0 +1,13 @@
+-- 7 Billion Humans (2214M) --
+-- 11: Chantier d'Insertion 1 --
+
+pickup s
+a:
+step s
+step s
+if w == datacube and
+ e == datacube and
+ c == nothing:
+	drop
+endif
+jump a
