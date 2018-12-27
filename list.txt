@@ -15,6 +15,7 @@
 
 7 "Station de Rassemblement" :
 - long
+- speed
 
 9 "Angles Dynamiques" :
 - perfect
