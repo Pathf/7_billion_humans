@@ -35,7 +35,8 @@
 - others
 
 14 "Intro au Broyage" :
--
+- long
+- speed
 
 15 "Broyage de Lignes" :
 -
