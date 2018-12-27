@@ -1,0 +1,15 @@
+-- 7 Billion Humans (2214M) --
+-- 16: Exterminateur de Poche 2 --
+
+a:
+step s
+if c != datacube:
+	jump a
+endif
+pickup c
+b:
+step e
+if se != shredder:
+	jump b
+endif
+giveto se
