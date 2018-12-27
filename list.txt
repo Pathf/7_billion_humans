@@ -58,7 +58,7 @@
 - perfect
 
 21 "Big Data" :
-- 
+- others
 
 22 "Royale des Nombres" :
 - perfect
