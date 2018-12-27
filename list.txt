@@ -25,7 +25,8 @@
 - speed
 
 11 "Chantier d'Insertion 1" :
--
+- long
+- speed
 
 12 "Fermeture Eclair" :
 -
