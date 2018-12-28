@@ -1,0 +1,47 @@
+-- 7 Billion Humans (2214M) --
+-- 54: Niveleur de Terrain --
+
+a:
+step n
+if c != datacube:
+	jump a
+endif
+b:
+mem1 = calc mem1 + c
+if n == datacube:
+	step n
+	jump b
+endif
+pickup c
+write mem1
+drop
+if sw != datacube:
+	c:
+	mem2 = calc mem2 + c
+	step e
+	if e == datacube:
+		jump c
+	endif
+	mem2 = calc mem2 + c
+	mem2 = calc mem2 / 49
+	d:
+	pickup c
+	write mem2
+	drop
+	if w == datacube:
+		step w
+		jump d
+	endif
+	tell everyone ok
+else:
+	step n
+	listenfor ok
+	step s
+endif
+mem4 = set c
+e:
+step s
+pickup c
+write mem4
+drop
+jump e
