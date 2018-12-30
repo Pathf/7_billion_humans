@@ -1,0 +1,64 @@
+-- 7 Billion Humans (2214M) --
+-- 13: Chantier d'Insertion 2 --
+
+pickup s
+step s
+step s
+if w != worker:
+	step s
+	step s
+	step s
+	drop
+	jump a
+endif
+if e != worker:
+	step se
+	step se
+	step se
+	step se
+	step s
+	drop
+	jump b
+endif
+if w != worker:
+	step se
+	step s
+	step s
+	drop
+	jump c
+endif
+if e != worker:
+	step se
+	step e
+	step e
+	drop
+	jump d
+endif
+if w != worker:
+	step se
+	step se
+	step se
+	step s
+	step s
+	step s
+	step s
+	drop
+	jump e
+endif
+if e != worker:
+	step se
+	step se
+	step se
+	step se
+	step s
+	step s
+	step s
+	drop
+endif
+a:
+b:
+c:
+d:
+e:
+
+
