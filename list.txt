@@ -75,7 +75,7 @@
 -
 
 26 "Brigade du Budget 2" :
--
+- speed 68/70 sec
 
 28 "Chemins Neuronaux" :
 -
