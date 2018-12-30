@@ -1,0 +1,26 @@
+-- 7 Billion Humans (2214M) --
+-- 24: Brigade du Budget 1 --
+
+if s == printer:
+	a:
+	if myitem != datacube:
+		takefrom s
+	endif
+	jump a
+endif
+if w == worker and
+ e == worker:
+	b:
+	if myitem != datacube:
+		takefrom w
+	endif
+	jump b
+endif
+c:
+takefrom w
+if myitem == datacube:
+	giveto s
+endif
+jump c
+
+
