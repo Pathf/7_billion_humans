@@ -32,7 +32,7 @@
 - perfect
 
 13 "Chantier d'Insertion 2" :
-- others -> long 11/10
+- others -> long 11/10 lines
 - speed 7/55 sec
 
 14 "Intro au Broyage" :
@@ -68,7 +68,8 @@
 -
 
 24 "Brigade du Budget 1" :
--
+- long 6/7 lines
+- speed 47/50 sec
 
 25 "Mon Premier Souvenir de Broyage" :
 -
