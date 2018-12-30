@@ -33,6 +33,7 @@
 
 13 "Chantier d'Insertion 2" :
 - others
+- speed 7/55 sec
 
 14 "Intro au Broyage" :
 - long
