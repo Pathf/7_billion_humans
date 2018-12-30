@@ -32,7 +32,7 @@
 - perfect
 
 13 "Chantier d'Insertion 2" :
-- others
+- others -> long 11/10
 - speed 7/55 sec
 
 14 "Intro au Broyage" :
