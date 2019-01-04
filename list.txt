@@ -82,7 +82,7 @@
 - perfect 4/4 lines | 51/51 sec
 
 29 "Accès Biométrique" :
--
+- perfect 5/5 lines | 60/61 sec
 
 30 "Peupler le Plancher" :
 -
