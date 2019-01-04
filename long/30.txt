@@ -1,0 +1,11 @@
+-- 7 Billion Humans (2214M) --
+-- 30: Peupler le Plancher --
+
+mem1 = nearest printer
+a:
+takefrom mem1
+if c != datacube:
+	drop
+endif
+step nw,w,sw,n,s,ne,e,se
+jump a
