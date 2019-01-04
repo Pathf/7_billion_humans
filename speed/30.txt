@@ -1,0 +1,137 @@
+-- 7 Billion Humans (2214M) --
+-- 30: Peupler le Plancher --
+
+mem1 = nearest printer
+if n != wall and
+ n != worker:
+	takefrom mem1
+	step se
+	step se
+	step e
+	step e
+	step e
+	a:
+	if c == datacube:
+		if e != wall:
+			step e
+		else:
+			if s == wall:
+				end
+			endif
+			step sw
+			step w
+		endif
+	else:
+		drop
+		if e == wall and
+		 s == wall:
+			end
+		endif
+		mem2 = nearest datacube
+		takefrom mem1
+		step mem2
+	endif
+	jump a
+endif
+if n == wall and
+ nw == nothing:
+	takefrom mem1
+	step nw
+	step nw
+	step w
+	step w
+	b:
+	if c == datacube:
+		if e != wall:
+			step e
+		else:
+			end
+		endif
+	else:
+		drop
+		if e == wall or
+		 e == datacube:
+			end
+		endif
+		mem2 = nearest datacube
+		takefrom mem1
+		step mem2
+	endif
+	c:
+	jump b
+endif
+if n == wall and
+ e == worker and
+ nw == wall:
+	takefrom mem1
+	step nw
+	step w
+	step w
+	step w
+	d:
+	jump c
+endif
+if n == wall and
+ e == wall:
+	takefrom mem1
+	e:
+	step w
+	if w != wall:
+		jump e
+	endif
+	f:
+	jump d
+endif
+if s == wall and
+ w == nothing:
+	takefrom mem1
+	step sw
+	step sw
+	step sw
+	step w
+	g:
+	jump f
+endif
+if w == worker and
+ e == worker and
+ s == wall:
+	takefrom mem1
+	step sw
+	step sw
+	step w
+	step w
+	jump g
+endif
+h:
+takefrom mem1
+step sw
+if c != datacube:
+	drop
+	i:
+	jump h
+endif
+step w
+if c != datacube:
+	drop
+	j:
+	jump i
+endif
+step w
+if c != datacube:
+	drop
+	jump j
+endif
+step w
+drop
+k:
+takefrom mem1
+step se
+l:
+if c != datacube:
+	drop
+	jump k
+endif
+if e != wall:
+	step e
+	jump l
+endif
