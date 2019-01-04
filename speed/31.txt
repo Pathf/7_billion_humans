@@ -1,0 +1,18 @@
+-- 7 Billion Humans (2214M) --
+-- 31: Organisation en Damier --
+
+mem1 = nearest printer
+takefrom mem1
+step n
+a:
+if c == datacube:
+	step nw,sw,ne,se
+else:
+	drop
+	mem2 = nearest datacube
+	takefrom mem1
+	step mem2
+endif
+jump a
+
+
