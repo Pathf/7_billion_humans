@@ -85,7 +85,7 @@
 - perfect 5/5 lines | 60/61 sec
 
 30 "Peupler le Plancher" :
--
+- long 6/6 lines | ~732/107 sec
 
 31 "Organisation en Damier" :
 -
