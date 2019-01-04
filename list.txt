@@ -89,7 +89,8 @@
 - speed 93/6 | 95/170 sec
 
 31 "Organisation en Damier" :
--
+- long 7/7 lines | ~110/100 sec (sometimes perfect)
+- speed ~74/100 sec
 
 32 "Ecriture Maladive" :
 -
