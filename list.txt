@@ -86,6 +86,7 @@
 
 30 "Peupler le Plancher" :
 - long 6/6 lines | ~732/107 sec
+- speed 93/6 | 95/170 sec
 
 31 "Organisation en Damier" :
 -
