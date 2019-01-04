@@ -72,7 +72,8 @@
 - speed 47/50 sec
 
 25 "Mon Premier Souvenir de Broyage" :
--
+- long 5/5 lines
+- speed 132/132 sec
 
 26 "Brigade du Budget 2" :
 - speed 68/70 sec
