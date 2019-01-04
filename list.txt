@@ -79,7 +79,7 @@
 - speed 68/70 sec
 
 28 "Chemins Neuronaux" :
--
+- perfect 4/4 lines | 51/51 sec
 
 29 "Accès Biométrique" :
 -
