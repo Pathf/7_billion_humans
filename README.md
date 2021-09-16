@@ -1,36 +1,17 @@
 # 7_billion_humans
 
 ## English language :
-This repository serves for the game "7 billion humans".
+This directory lists all the solutions of the game "7 billion humans", which are the most optimized.
 
-The file "list.txt" lists all the codes!
-
-The "perfect" folder groups the codes of the different levels that meet the following conditions:
-- Optional Length Challenge
-- Optional Speed Challenge
-
-The "long" folder groups the codes of the different levels which respect the following condition:
-- Optional Length Challenge
-
-The folder "speed" groups the codes of the different levels which respect the following condition:
-- Optional Speed Challenge
-
-The "others" folder groups the remaining codes that work but do not respect the conditions. (Algo often naive)
-
+This "All" directory groups together all the mission codes by level, there is a format for the file names:
+- `NUM`-`OPTI`.txt is the format of the files
+- `NUM` : Number of the mission
+- `OPTI` : Word to define the optimisation of the code `perfect`(size + speed), `size`, `speed` and if there is nothing, it means that the level is not optimized.
 
 ## Langue Française :
-Ce repertoire sert pour le jeu "7 billion humans".
+Ce repertoire référence tout les solutions les plus optimisés du jeu "7 billion humans".
 
-Le fichier "list.txt" répertories tous les codes!
-
-Le dossier "perfect" regroupe les codes des différents niveaux qui respectent les conditions suivantes :
-- Défi de Longueur Facultatif
-- Défi de Vitesse Facultatif
-
-Le dossier "long" regroupe les codes des différents niveaux qui respectent la condition suivante :
-- Défi de Longueur Facultatif
-
-Le dossier "speed" regroupe les codes des différents niveaux qui respectent la condition suivante :
-- Défi de Vitesse Facultatif
-
-Le dossier "others" regroupe les codes restant qui marche mais qui ne respecte pas les conditions. (Algo souvent naïf)
+Le dossier "All" regroupe tout les codes des missions par niveau, il y a un format pour le nom du fichier :
+- "`NUM`-`OPTI`.txt" est le format des fichiers
+- `NUM` : Numéro de la mission
+- `OPTI` : Mot pour définir l'optimisation du code `perfect`(size + speed), `size`, `speed` et s'il n'y a rien c'est que le niveau n'est pas optimisé.
