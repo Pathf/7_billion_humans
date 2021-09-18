@@ -17,7 +17,7 @@ Le dossier "All" regroupe tout les codes des missions par niveau, il y a un form
 - `OPTI` : Mot pour définir l'optimisation du code `perfect`(size + speed), `size`, `speed` et s'il n'y a rien c'est que le niveau n'est pas optimisé.
 
 | Missions                         | Goal     | Size        | Speed        | Perfect  |
-|:-------------------------------- |:--------:|:-----------:|:------------:|:-------- |
+|:-------------------------------- |:-------- |:----------- |:------------ |:-------- |
 | 2 - Bienvenue, Nouvelles Recrues | 3 / 2s   | ✔  3 (1s)   | ✔+ 1s  (3)  | ✔  3/1s  |
 | 3 - Escadron de Transport        | 5 / 2s   | ✔  5 (2s)   | ✔  2s  (5)  | ✔  5/2s  |
 | 4 - Livraison Longue Distance    | 4 / 7s   | ✔  4 (6s)   | ✔+ 6s  (4)  | ✔  4/6s  |
