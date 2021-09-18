@@ -1,9 +1,9 @@
--- 7 Billion Humans (2214M) --
+-- 7 Billion Humans (2231) --
 -- 14: Intro au Broyage --
 
-if s == something:
-	pickup s
+step s
+step s
+if n == datacube:
+	pickup n
+	giveto s
 endif
-step s
-step s
-giveto s
