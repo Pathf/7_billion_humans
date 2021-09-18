@@ -1,4 +1,4 @@
--- 7 Billion Humans (2214M) --
+-- 7 Billion Humans (2231) --
 -- 6: Exterminateur de Poche 1 --
 
 step s
@@ -8,5 +8,4 @@ step se
 step e
 step se
 step s
-step s
-pickup c
+pickup c,s
