@@ -1,15 +1,16 @@
--- 7 Billion Humans (2214M) --
+-- 7 Billion Humans (2231) --
 -- 7: Station de Rassemblement --
 
-a:
 step s
-if s != datacube:
-	jump a
-endif
-pickup s
-b:
 step s
-if s != hole:
-	jump b
+step s
+if w == datacube:
+	step s
+	pickup s
+else:
+	pickup n,c,s
+	step s
 endif
+step s
+step s
 drop
